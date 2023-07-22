@@ -5,8 +5,8 @@ Data Factory, Az Blob, Data Bricks, Az SQL DB, Az Synapse, Functions, Logic App 
 
 # AZ Blob: 
 It's basically a storage account storing Terabytes and Petabytes of data with structured and Unstructured data.
-Below are some services that are provided by Azure
-Blob, ADLS, File share, Queue service, Azure Tables
+Below are some services that are provided by Azure.
+Blob, ADLS, File share, Queue service, Azure Tables.
 
 # AZ Data Factory 
 Activities: Copy, Foreach, If, GetMeta data, Execute, Data flow, Lookup, Web activity and others.
